@@ -1,0 +1,1 @@
+El sitio web es moderno y fácil de usar, sin embargo, se cae cuando intento subir archivos grandes. Necesita estabilidad.
